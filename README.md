@@ -24,5 +24,4 @@ When do you start the `wiki.py`, it will show a question: "Digite o que você qu
 
 <hr>
 
-
 Repository made with ❤️ by Matheus.
